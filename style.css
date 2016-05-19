@@ -58,4 +58,11 @@ div {
 	width: 500px;
 }
 
+.float {
+	width: 600px;
+	margin: 0 auto;
+}
+.float img {
+	float: right;
+}
 
